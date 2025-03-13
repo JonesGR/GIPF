@@ -42,13 +42,13 @@ Przykład:<br/>
 LOAD_GAME_BOARD
 4 4 15 15
 1 2 B
-   W _ _ B<br/>
-  W B _ _ W<br/>
- B _ W _ B _<br/>
-B _ W _ B B W<br/>
- W _ B _ W _<br/>
-  _ W _ _ _<br/>
-   W _ W B<br/>
+   W _ _ B
+  W B _ _ W
+ B _ W _ B _
+B _ W _ B B W
+ W _ B _ W _
+  _ W _ _ _
+   W _ W B
 </pre>
 
 
