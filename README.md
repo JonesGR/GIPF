@@ -18,16 +18,6 @@ Podczas działania aplikacji możesz wprowadzać następujące komendy:
 - `PRINT_GAME_STATE` – pokazuje ogólny stan gry.
 - `IS_GAME_OVER` – sprawdza, czy gra została zakończona.
 - `LOAD_GAME_BOARD` – ładuje stan planszy
-  PRZYKŁAD: LOAD_GAME_BOARD
-  4 4 15 15
-  1 2 B
-     W _ _ B
-    W B _ _ W
-   B _ W _ B _
-  B _ W _ B B W
-   W _ B _ W _
-    _ W _ _ _
-     W _ W B
 - `GEN_ALL_POS_MOV` – generuje wszystkie możliwe ruchy.
 - `GEN_ALL_POS_MOV_EXT` – generuje wszystkie możliwe ruchy w trybie rozszerzonym.
 - `GEN_ALL_POS_MOV_NUM` – generuje ruchy z numerami.
@@ -46,6 +36,18 @@ Elementy wizualizacji:
 - Niebieskie kwadraty – pionki gracza 1.
 - Czerwone kwadraty – pionki gracza 2.
 
+## Wczytywanie planszy
+PRZYKŁAD: LOAD_GAME_BOARD
+  4 4 15 15
+  1 2 B
+     W _ _ B
+    W B _ _ W
+   B _ W _ B _
+  B _ W _ B B W
+   W _ B _ W _
+    _ W _ _ _
+     W _ W B
+
 ## Obsługa okna gry
 - Kliknięcie "X" zamyka okno gry.
 - Plansza automatycznie aktualizuje stan po wykonaniu ruchu.
@@ -55,7 +57,5 @@ Gra kończy się, gdy komenda `IS_GAME_OVER` zwróci wartość oznaczającą kon
 
 ## Uwagi dodatkowe
 - Aplikacja wymaga biblioteki SFML.
-- W przypadku błędów sprawdź, czy pliki są poprawnie wczytane.
 
-Dziękujemy za skorzystanie z aplikacji GIPF!
 
