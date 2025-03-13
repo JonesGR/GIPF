@@ -37,9 +37,11 @@ Elementy wizualizacji:
 - Czerwone kwadraty – pionki gracza 2.
 
 ## Wczytywanie planszy
+Przykład:
+- xd
 LOAD_GAME_BOARD
-4 4 15 15\n
-1 2 B\n
+4 4 15 15
+1 2 B
    W _ _ B
   W B _ _ W
  B _ W _ B _
