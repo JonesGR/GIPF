@@ -17,7 +17,17 @@ Podczas działania aplikacji możesz wprowadzać następujące komendy:
 - `PRINT_GAME_BOARD` – wyświetla aktualny stan planszy.
 - `PRINT_GAME_STATE` – pokazuje ogólny stan gry.
 - `IS_GAME_OVER` – sprawdza, czy gra została zakończona.
-- `LOAD_GAME_BOARD` – ładuje stan planszy z pliku.
+- `LOAD_GAME_BOARD` – ładuje stan planszy
+  PRZYKŁAD: LOAD_GAME_BOARD
+  4 4 15 15
+  1 2 B
+     W _ _ B
+    W B _ _ W
+   B _ W _ B _
+  B _ W _ B B W
+   W _ B _ W _
+    _ W _ _ _
+     W _ W B
 - `GEN_ALL_POS_MOV` – generuje wszystkie możliwe ruchy.
 - `GEN_ALL_POS_MOV_EXT` – generuje wszystkie możliwe ruchy w trybie rozszerzonym.
 - `GEN_ALL_POS_MOV_NUM` – generuje ruchy z numerami.
