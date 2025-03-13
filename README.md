@@ -38,8 +38,8 @@ Elementy wizualizacji:
 
 ## Wczytywanie planszy
 LOAD_GAME_BOARD
-4 4 15 15
-1 2 B
+4 4 15 15\n
+1 2 B\n
    W _ _ B
   W B _ _ W
  B _ W _ B _
