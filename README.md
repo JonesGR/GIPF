@@ -38,7 +38,6 @@ Elementy wizualizacji:
 
 ## Wczytywanie planszy
 Przykład:
-- xd
 LOAD_GAME_BOARD
 4 4 15 15
 1 2 B
