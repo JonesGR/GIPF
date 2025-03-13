@@ -48,7 +48,7 @@ B _ W _ B B W<br/>
  W _ B _ W _<br/>
   _ W _ _ _<br/>
    W _ W B<br/>
-  <pre/>
+</pre>
 
 
 ## Obsługa okna gry
