@@ -38,6 +38,7 @@ Elementy wizualizacji:
 
 ## Wczytywanie planszy
 PRZYKŁAD: LOAD_GAME_BOARD
+xd
 4 4 15 15
 1 2 B
 W _ _ B
