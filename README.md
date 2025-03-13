@@ -1,7 +1,7 @@
 # Instrukcja obsługi aplikacji GIPF
 
 ## Wprowadzenie
-Aplikacja GIPF jest implementacją gry planszowej, która umożliwia interakcję poprzez polecenia tekstowe oraz wizualizację planszy. Użytkownik może wprowadzać polecenia, aby sterować rozgrywką i analizować stan gry.
+Aplikacja GIPF jest implementacją gry planszowej, która umożliwia interakcję poprzez polecenia tekstowe oraz wizualizację planszy. Użytkownik może wprowadzać polecenia, aby sterować rozgrywką i analizować stan gry. Projekt został zrealizowany w ramach przedmiotu "Algorytmy i Struktury Danych" w oparciu o zamieszczone wymagania.
 
 ## Uruchamianie aplikacji
 Aby uruchomić aplikację, skompiluj kod za pomocą kompilatora obsługującego SFML. Następnie uruchom plik wykonywalny.
