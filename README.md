@@ -41,7 +41,7 @@ Przykład:<br/>
 LOAD_GAME_BOARD<br/>
 4 4 15 15<br/>
 1 2 B<br/>
-   W _ _ B<br/>
+<pre>   W _ _ B<br/>
   W B _ _ W<br/>
  B _ W _ B _<br/>
 B _ W _ B B W<br/>
